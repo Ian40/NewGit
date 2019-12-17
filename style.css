@@ -1,11 +1,15 @@
-h1 {color:red;
+h1 {text-align:center;
+ color:red;
  font-family:verdana;
  font-size:300%;}
-p {color:grey;
- font-family:courier;
-  font-size:160%;
-   margin:50px;}
-p.firstP{background-color:powderblue;}
+ul{text-align:center;}
+p.firstP{font-size:120%;
+margin:50px;
+}
+.thirdP{color:red;
+font-family:verdana;
+font-size:160%;
+text-align:center;}
 		.secondP{background-color:black;
 		color:white;
 		margin:20px;}
