@@ -1,0 +1,11 @@
+h1 {color:red;
+ font-family:verdana;
+ font-size:300%;}
+p {color:grey;
+ font-family:courier;
+  font-size:160%;
+   margin:50px;}
+p.firstP{background-color:powderblue;}
+		.secondP{background-color:black;
+		color:white;
+		margin:20px;}
